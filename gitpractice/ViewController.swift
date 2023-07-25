@@ -15,6 +15,7 @@ class ViewController: UIViewController {
 
         print("1234")
         print("3456")
+        print("커밋과 동시에 푸쉬하기")
     }
 
 
